@@ -7,13 +7,14 @@
 - Over 20 years experience in IT
 - 1+ year experience with Agile, working in sprints and Kanban
 - Broad knowledge base with deep understanding of several topics, including network, monitoring, and logging
-- System admin and developer experience
+- System admin, and developer experience
+- Strong automation skills
 - Fluent in most operating systems, including Linux, Solaris, UNIX, Windows, MacOS, and Cisco IOS/NX-OS
 - Passionate about doing things the right way
 - Always security-focused
 - User of and advocate for Free & Open Source Software
 - Detail-oriented, through, and great at documentation
-- Enjoys mentoring, teaching, and training other team members
+- Enjoys mentoring, teaching, and training
 - Proficient in Microsoft Word
 
 ### Work History
@@ -27,6 +28,7 @@ Release & Systems Integration Engineer, Next Gen Data Center (Jan 2018 - Present
 - Primary reviewer and approver for Chef Cookbooks in CI/CD pipeline, averaging 5 approvals/day
 - Integration of software into Cloud Management Platform (vRealize vRA/vRO)
 - 1 of 4 GitHub Enterprise users at Ford with merge ability to primary Software-defined data center documentation repository
+- One of the top GitHub Enterprise contributors for team for code and documentation (1,500+ contributions in last 1 year)
 - Mentoring, Training, and outreach for release process, code   quality, and Test Driven Development (TDD)
 
 Automation Engineer / Next Gen Data Center Tools (Jan 2017 - Dec 2017)
