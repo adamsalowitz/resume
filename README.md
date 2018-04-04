@@ -15,7 +15,6 @@
 - User of and advocate for Free & Open Source Software
 - Detail-oriented, through, and great at documentation
 - Enjoys mentoring, teaching, and training
-- Proficient in Microsoft Word
 
 ### Work History
 
@@ -41,7 +40,7 @@ Automation Engineer / Next Gen Data Center Tools (Jan 2017 - Dec 2017)
 - Logging and Monitoring SME, wrote Logging-as-a-Service Whitepaper as foundation of logging principles for project
 - Mentoring and Training for Chef, configuration management, and IaC
 
-Network Management Systems (NMS) Infrastructure Engineer (Contractor to direct hire) (Jun 2007 - Dec 2016)
+Network Management Systems (NMS) Infrastructure Engineer (Contractor: Jun 2007 - Oct 2011, Direct Hire: Oct 2011 - Dec 2016)
 - Team lead for Network Tools infrastructure, supporting 100+ CIs, including SuSE Linux, Windows, and Cisco Routers, Switches, and Appliances (5k, 7k, Secure Access Control System (ACS), Identity Services Engine (ISE), Prime Infrastructure, and APIC)
 - Engineered, built, and supported complex incident, configuration, change, and monitoring systems, including IBM Tivoli Netcool, Nagios, and custom Perl solutions
 - SME for logging and log intelligence using Balabit Syslog-ng and Splunk Enterprise
@@ -62,10 +61,9 @@ Messaging Engineer (May 1999 – Jun 2001)
 - Installation and advanced configuration of Internet Information Server (IIS) 4.0, Outlook Web Access, and Postfix
 - Custom application coding in VB and Access VBA for reporting and mailing list generation
 
-
 #### HP
 
-Messaging Engineer (Contractor) (Jun 2001 - May 2004)
+Messaging Engineer (Contractor: Jun 2001 - May 2004)
 - Founding member of team for rollout of new call center for major hosted email provider, including travel to old call center for training and observation
 - Second level support for customer administrators of POP, IMAP, SMTP, calendaring, and Webmail Services for approximately 15 million mailboxes
 - Migrated web-based support tools from old call center and created new tools in PHP and Perl
@@ -76,20 +74,11 @@ Messaging Engineer (Contractor) (Jun 2001 - May 2004)
 - Documentation, monitoring, and administration of Solaris 2.6 / Sendmail E-mail firewalls
 - Wrote custom monitoring solution for Outlook Web Access using batch files and CURL library
 
-### Interests
-
-- Ubiquiti Network / Unifi
-- AWS, Azure, Linode, Vultr, and cloud platforms
-- Virtualization
-- Web hosting and web design
-- Home automation
-- Cryptocurrencies and Cryptocurrency adoption
-
 ### Education & Certification
 
-- Wayne State University – Detroit, MI USA – 05/2010 - ???? **Prerequisites toward entering Masters of Computer Science Program**
-- Cisco CCNA Certification Completed 1/2010 (Expired in 2016??)
-- CompTIA Linux+ Certification Completed 9/2002
-- Sun Certified Network Administrator for the Solaris 8 Operating Environment (SCNA) Completed 05/2002
-- Sun Certified System Administrator for the Solaris 8 Operating Environment (SCSA) Completed 11/2001
-- Michigan State University - East Lansing, MI USA - 01/1994 – 05/1999	**Bachelor’s of Science in Chemical Engineering**
+- Coursework toward Masters of Computer Science - Wayne State University – Detroit, MI (05/2010 - Present)
+- Cisco CCNA Certification (Jan 2010 - Jan 2016)
+- CompTIA Linux+ Certification (Sept 2002)
+- Sun Certified Network Administrator for the Solaris 8 Operating Environment (SCNA) (May 2002)
+- Sun Certified System Administrator for the Solaris 8 Operating Environment (SCSA) (Nov 2001)
+- **Bachelor’s of Science in Chemical Engineering** Michigan State University - East Lansing, MI - (May 1999)
