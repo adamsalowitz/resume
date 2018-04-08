@@ -1,24 +1,28 @@
 ### Adam Salowitz
 
-#### adam.salowitz+2018@gmail.com (248) 506-\*\*\*\*
+#### adam.salowitz+github@gmail.com (248) 506-\*\*\*\*
 
 #### Professional Summary
 
-Over 20 years experience in IT. 1+ year experience with Agile, comfortable working in sprints and Kanban. Broad knowledge base with deep understanding of several topics, including network, monitoring, and logging. System admin, and developer experience. Strong automation skills. Fluent in most operating systems.  Passionate about doing things the right way. Always security-focused.  User of and advocate for Free & Open Source Software.  Detail-oriented, through, and great at documentation.  Enjoys mentoring, teaching, and training
+I have over 20 years experience in IT, with 1+ year working in agile sprints and Kanban. I have a broad knowledge base with deep understanding of networking, monitoring, and logging. I consider myself primarily a system admin with strong automation and developer skills.
+
+I am passionate about doing things the right way. I am detail-oriented, through, great at documentation, and always security-focused.  I am a user of and advocate for Free & Open Source Software.  Lastly, I enjoy mentoring, teaching, and training other team members.
 
 #### Skills
 
-GitHub vRealize Chef Cisco ACI f5 (5k, 7k, Secure Access Control System (ACS), Identity Services Engine (ISE), Prime Infrastructure, and APIC) IBM Tivoli Netcool, Nagios, and Perl, and Bash  Balabit Syslog-ng and Splunk Enterprise Postfix Exchange Linux, Solaris, UNIX, Windows, MacOS, and Cisco IOS/NX-OS
+OS | Network | Monitoring & Logging |Programming & Scripting | Other
+---|---|---|---|---
+Linux, Solaris, UNIX, Windows, MacOS, ESXi | IOS/NX-OS, Cisco ACI, Secure ACS, Identity Services Engine (ISE), Prime Infrastructure | IBM Tivoli Netcool, Nagios, Balabit Syslog-NG, RSyslog, Splunk Enterprise | GitHub, git, Perl, Bash, Chef | Postfix, MS Exchange, vRealize Suite, vCenter
 
 #### Work History
 
 **Ford Motor Company** - Release & Systems Integration Engineer, Next Gen Data Center (Jan 2018 - Present)
-- Established and documented software release and integration process for software-defined data center
+- Established and documented software release and integration process for cloud management platform (vRA/vRO, Chef, and GitHub)
 - Designed, built, and executed CI/CD Pipeline for Chef Cookbooks with Chef Automate and Jenkins
 - Key GitHub Enterprise contributor, reviewer, and merger for primary documentation repository
 - Mentoring and training for release, deployment, code quality, and Test Driven Development
 
-**Ford Motor Company** - Automation Engineer / Next Gen Data Center Tools (Jan 2017 - Dec 2017)
+**Ford Motor Company** - Automation Engineer, Next Gen Data Center (Jan 2017 - Dec 2017)
 - Led effort to identify and integrate "core apps" into next generation Linux and Windows OS loads
 - Developed Infrastructure as Code (IaC) Chef Cookbooks, including vRealize Endpoint Ops Mgr, Splunk Forwarder, and MS SQL Server
 - Wrote Logging-as-a-Service whitepaper which served as logging principles for software-defined data center
@@ -27,7 +31,7 @@ GitHub vRealize Chef Cisco ACI f5 (5k, 7k, Secure Access Control System (ACS), I
 **Ford Motor Company** - Network Management Systems (NMS) Infrastructure Engineer (Contractor: Jun 2007 - Oct 2011, Direct Hire: Oct 2011 - Dec 2016)
 - Managed and supported 100+ servers, routers, switches, and appliances throughout entire lifecycle
 - Engineered, built, and supported complex incident, configuration, change, monitoring, logging, and log intelligence systems
-- Responded to and recovered from critical incidents, including global wireless authentication and data center outages
+- Responded to and recovered from critical incidents, including global wireless authentication and data center power outages
 - Wrote and maintained disaster recovery, business continuity, and security and controls documentation.  Executed DR tests and served as SPOC for internal audits
 
 **Compuware** - Storage & Backup Engineer (May 2004 - May 2007)
@@ -36,14 +40,11 @@ GitHub vRealize Chef Cisco ACI f5 (5k, 7k, Secure Access Control System (ACS), I
 
 **HP** - Messaging Engineer (Contractor: Jun 2001 - May 2004)
 - Rolled out new call center for major hosted email provider, providing support for POP, IMAP, SMTP, calendaring, and Webmail Services for approximately 15 million mailboxes
-- Migrated web-based support tools from old call center and created new tools in PHP and object-oriented Perl
-- Managed worldwide Exchange 5.5 messaging system for over 200,000 users for Big 3 Automaker.
-- Led effort to take ownership and administration of Solaris 2.6 Sendmail E-mail firewalls from another internal team
-- Wrote custom monitoring solution for Outlook Web Access using batch files and CURL library
+- Managed worldwide Exchange 5.5 messaging system for over 200,000 users for Big 3 Automaker, including ownership of Solaris 2.6 Sendmail E-mail firewalls
+- Migrated web-based support tools from old call center and created new tools in PHP and object-oriented Perl and wrote custom monitoring solution for Outlook Web Access using batch files and CURL library
 
 **Compuware** - Messaging Engineer (May 1999 – Jun 2001)
-- Managed global Exchange 5.5 messaging system for over 30,000 users
-- Installed and deployed supporting apps, including Internet Information Server (IIS) 4.0, Outlook Web Access, and Postfix
+- Managed global Exchange 5.5 messaging system for over 30,000 users, including supporting apps such as Internet Information Server (IIS) 4.0, Outlook Web Access, and Postfix
 - Created custom application VB and Access VBA for reporting and mailing list generation
 
 #### Education & Certification
