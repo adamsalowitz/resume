@@ -6,13 +6,13 @@
 
 I have over 20 years experience in IT, with 1+ year working in agile sprints and Kanban. I have a broad knowledge base with deep understanding of networking, monitoring, and logging. I consider myself primarily a system admin with strong automation and developer skills.
 
-I am passionate about doing things the right way. I am detail-oriented, through, great at documentation, and always security-focused.  I am a user of and advocate for Free & Open Source Software.  Lastly, I enjoy mentoring, teaching, and training other team members.
+I am passionate about doing things the right way. I am detail-oriented, thorough, great at documentation, and always security-focused.  I am a user of and advocate for Free & Open Source Software (FOSS).  Lastly, I enjoy mentoring, teaching, and training other team members.
 
 #### Skills
 
-OS | Network | Monitoring & Logging |Programming & Scripting | Other
----|---|---|---|---
-Linux, Solaris, UNIX, Windows, MacOS, ESXi | IOS/NX-OS, Cisco ACI, Secure ACS, Identity Services Engine (ISE), Prime Infrastructure | IBM Tivoli Netcool, Nagios, Balabit Syslog-NG, RSyslog, Splunk Enterprise | GitHub, git, Perl, Bash, Chef | Postfix, MS Exchange, vRealize Suite, vCenter
+OS | Network | Monitoring & Logging |Programming & Scripting | CI/CD | Other
+---|---|---|---|---|---
+Linux, Solaris, UNIX, Windows, MacOS, ESXi | IOS/NX-OS, Cisco ACI, Secure ACS (TACACS+), Identity Services Engine (ISE), Prime Infrastructure | IBM Tivoli Netcool, Nagios, Balabit Syslog-NG, RSyslog, Splunk Enterprise | GitHub, git, CVS, Perl, Bash, Chef, C++ | Chef Automate, Jenkins | Postfix, MS Exchange, vRealize Suite, vCenter
 
 #### Work History
 
@@ -20,11 +20,11 @@ Linux, Solaris, UNIX, Windows, MacOS, ESXi | IOS/NX-OS, Cisco ACI, Secure ACS, I
 - Established and documented software release and integration process for cloud management platform (vRA/vRO, Chef, and GitHub)
 - Designed, built, and executed CI/CD Pipeline for Chef Cookbooks with Chef Automate and Jenkins
 - Key GitHub Enterprise contributor, reviewer, and merger for primary documentation repository
-- Mentoring and training for release, deployment, code quality, and Test Driven Development
+- Mentoring and training for release, deployment, code quality, and Test Driven Development (TDD)
 
 **Ford Motor Company** - Automation Engineer, Next Gen Data Center (Jan 2017 - Dec 2017)
 - Led effort to identify and integrate "core apps" into next generation Linux and Windows OS loads
-- Developed Infrastructure as Code (IaC) Chef Cookbooks, including vRealize Endpoint Ops Mgr, Splunk Forwarder, and MS SQL Server
+- Developed Infrastructure as Code (IaC) Chef Cookbooks, including vRealize Endpoint Ops Mgr (vROPS), Splunk Forwarder, and MS SQL Server
 - Wrote Logging-as-a-Service whitepaper which served as logging principles for software-defined data center
 - Mentoring and training for Chef, configuration management, and network/load balancing
 
