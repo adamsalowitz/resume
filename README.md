@@ -24,7 +24,7 @@ Linux, Solaris, UNIX, Windows, MacOS, ESXi | IOS/NX-OS, Cisco ACI, Secure ACS (T
 
 **Ford Motor Company** - Automation Engineer, Next Gen Data Center (Jan 2017 - Dec 2017)
 - Led effort to identify and integrate "core apps" into next generation Linux and Windows OS loads
-- Developed Infrastructure as Code (IaC) Chef Cookbooks, including vRealize Endpoint Ops Mgr (vROPS, Splunk Forwarder, and MS SQL Server
+- Developed Infrastructure as Code (IaC) Chef Cookbooks, including vRealize Endpoint Ops Mgr (vROPS), Splunk Forwarder, and MS SQL Server
 - Wrote Logging-as-a-Service whitepaper which served as logging principles for software-defined data center
 - Mentoring and training for Chef, configuration management, and network/load balancing
 
