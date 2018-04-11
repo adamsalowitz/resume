@@ -12,7 +12,7 @@ I am passionate about doing things the right way. I am detail-oriented, thorough
 
 OS | Network | Monitoring & Logging |Programming & Scripting | CI/CD | Other
 ---|---|---|---|---|---
-Linux, Solaris, UNIX, Windows, MacOS, ESXi | IOS/NX-OS, Cisco ACI, Secure ACS (TACACS+), Identity Services Engine (ISE), Prime Infrastructure | IBM Tivoli Netcool, Nagios, Balabit Syslog-NG, RSyslog, Splunk Enterprise | GitHub, git, CVS, Perl, Bash, Chef, C++ | Chef Automate, Jenkins | Postfix, MS Exchange, vRealize Suite, vCenter
+Linux, Solaris, UNIX, Windows, MacOS, ESXi | IOS/NX-OS, Cisco ACI, Secure ACS (TACACS+), Identity Services Engine (ISE), Prime Infrastructure | IBM Tivoli Netcool, Nagios, Balabit Syslog-NG, RSyslog, Splunk Enterprise | GitHub, git, CVS, Perl, Bash, Chef, C++ | Chef Automate, Jenkins | Postfix, MS Exchange, vRealize Suite, vCenter, ITIL, ITSM
 
 #### Work History
 
@@ -49,7 +49,8 @@ Linux, Solaris, UNIX, Windows, MacOS, ESXi | IOS/NX-OS, Cisco ACI, Secure ACS (T
 
 #### Education & Certification
 
-- Coursework toward Masters of Computer Science - Wayne State University – Detroit, MI (05/2010 - Present)
+- Coursework toward Masters of Computer Science - Wayne State University – Detroit, MI (May 2010 - Ongoing)
+- ITIL version 3 Foundation (May 2010)
 - Cisco CCNA Certification (Jan 2010 - Jan 2016)
 - CompTIA Linux+ Certification (Sept 2002)
 - Sun Certified Network Administrator for the Solaris 8 Operating Environment (SCNA) (May 2002)
