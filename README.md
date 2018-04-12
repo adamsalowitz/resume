@@ -1,4 +1,4 @@
-### Adam Salowitz | adam.salowitz@gmail.com | +1 (248) 506-1213
+### Adam Salowitz | adam.salowitz+github@gmail.com | +1 (248) 506-\*\*\*\*
 
 I have over 20 years experience in IT, with 1+ year working in agile sprints and Kanban.  I am passionate about doing things the right way. I am detail-oriented, great at documentation, and security-focused.  I am a user of and advocate for Free & Open Source Software (FOSS).  I enjoy mentoring, teaching, and training other team members.  Overall, I consider myself a system admin with strong automation and developer skills.
 
