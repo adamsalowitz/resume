@@ -27,7 +27,7 @@ Linux, Solaris, UNIX, Windows, MacOS, ESXi | Cisco ACI, IOS/NX-OS, Secure ACS (T
 - Mentored and trained for release, deployment, code quality, config management, and Test Driven Development (TDD)
 
 
-**Ford Motor Company** - Network Management Systems (NMS) Infrastructure Engineer (Contractor: Jun 2007 - Oct 2011, Direct Hire: Oct 2011 - Dec 2016)
+**Ford Motor Company** - Network Management Systems (NMS) Infrastructure Engineer (Jun 2007 - Jan 2016)
 - Managed and supported 100+ servers, routers, switches, and appliances throughout entire lifecycle
 - Engineered, built, and supported complex incident, configuration, change, monitoring, logging, and log intelligence systems
 - Responded to and recovered from critical incidents, including global wireless authentication and data center power outages
@@ -38,14 +38,14 @@ Linux, Solaris, UNIX, Windows, MacOS, ESXi | Cisco ACI, IOS/NX-OS, Secure ACS (T
 - Managed and supported multiple Veritas NetBackup environments backing up over 200 hosts and 10 TB per day
 - Administration, provisioning, and performance tuning of SAN and NAS solutions, including EMC Clarion and Symmetrix, StorageTEK/SUN D280, and NetApp Filers
 
-**HP** - Messaging Engineer (Contractor: Jun 2001 - May 2004)
+**HP** - Messaging Engineer (Jun 2001 - May 2004)
 - Rolled out new call center for major hosted email provider, providing support for POP, IMAP, SMTP, calendaring, and Webmail Services for approximately 15 million mailboxes
 - Managed worldwide Exchange 5.5 messaging system for over 200,000 users for Big 3 Automaker, including ownership of Solaris 2.6 Sendmail E-mail firewalls
 - Migrated web-based support tools from old call center and created new tools in PHP and object-oriented Perl and wrote custom monitoring solution for Outlook Web Access using batch files and CURL library
 
 #### Education & Certification
 
-- Coursework toward Masters of Computer Science - Wayne State University – Detroit, MI (May 2010 - Ongoing)
+- Coursework toward Masters of Computer Science - Wayne State University – Detroit, MI (Ongoing)
 - ITIL version 3 Foundation (May 2010)
 - Cisco CCNA Certification (Jan 2010 - Jan 2016)
 - CompTIA Linux+ Certification (Sept 2002)
