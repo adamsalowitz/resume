@@ -27,7 +27,7 @@ Linux, Solaris, UNIX, Windows, MacOS, ESXi | Cisco ACI, IOS/NX-OS, Secure ACS (T
 - Mentored and trained for release, deployment, code quality, config management, and Test Driven Development (TDD)
 
 
-**Ford Motor Company** - Network Management Systems (NMS) Infrastructure Engineer (Jun 2007 - Jan 2016)
+**Ford Motor Company** - Network Management Systems (NMS) Infrastructure Engineer (Jun 2007 - Jan 2017)
 - Managed and supported 100+ servers, routers, switches, and appliances throughout entire lifecycle
 - Engineered, built, and supported complex incident, configuration, change, monitoring, logging, and log intelligence systems
 - Responded to and recovered from critical incidents, including global wireless authentication and data center power outages
