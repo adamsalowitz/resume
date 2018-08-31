@@ -4,27 +4,26 @@
 
 #### Professional Summary
 
-I have over 20 years experience in IT, with 1+ year working in agile sprints and Kanban. I have a broad knowledge base with deep understanding of networking, monitoring, and logging. I consider myself primarily a system admin with strong automation and developer skills.
+ I consider myself a system admin with strong automation and developer skills.  I'm comfortable in most OS and network environments and able to  master new skills, languages, technologies quickly.  I'm great at documentation and enjoy mentoring and teaching.
 
-I am passionate about doing things the right way. I am detail-oriented, thorough, great at documentation, and always security-focused.  I am a user of and advocate for Free & Open Source Software (FOSS).  Lastly, I enjoy mentoring, teaching, and training other team members.  ITIL, ITSM
+Being at the vanguard of a DevOps transformation in a large enterprise has prepared me for the challenges ahead as the industry accelerates.  I've learned to work in small shippable increments, document as I go, fail fast, and to be agile.  My long term goal is to work toward becoming a full stack developer.
 
 #### Skills
 
 OS | Network | Monitoring & Logging |Programming & Scripting | CI/CD | Cloud
 ---|---|---|---|---|---
-Linux, Solaris, UNIX, Windows, MacOS, ESXi | Cisco ACI, IOS/NX-OS, Secure ACS (TACACS+), Identity Services Engine (ISE), Prime Infrastructure, f5 BigIP, iWorkflow, TCP/IP | IBM Tivoli Netcool, Nagios, Balabit Syslog-NG, RSyslog, Splunk Enterprise | GitHub, git, CVS, Perl, Bash, Chef, Habitat, C++ | Jenkins, Chef Automate, Concourse | vRealize Suite, vCenter, Terraform, Azure, Pivotal Cloud Foundry, AWS EC2, Lightsail, Route53, VPC, IAM
+Linux, Solaris, UNIX, Windows, MacOS, ESXi | Cisco ACI, IOS/NX-OS, Secure ACS (TACACS+), Identity Services Engine (ISE), Prime Infrastructure, f5 BigIP, iWorkflow, TCP/IP | IBM Tivoli Netcool, Nagios, Balabit Syslog-NG, RSyslog, Splunk Enterprise | GitHub, git, CVS, Perl, PHP, Bash, Chef, Habitat, C++ | Jenkins, Chef Automate, Concourse | vRealize Suite, vCenter, Terraform, Azure, Pivotal Cloud Foundry, AWS EC2, Lightsail, Route53, VPC, IAM
 
 #### Work History
 
 **Ford Motor Company** - Release Team Engineer, Next Gen Data Center (Jan 2017 - Present)
 - Thought leader during DevOps and Agile transformation of IT org
-- Performed continuous integration and release for cloud management platform (vRA/vRO, Chef, Habitat, Network as a Service, GitHub)
-- Designed & implemented CI/CD Pipelines
-- Key GitHub Enterprise contributor, reviewer, and merger for primary documentation repository
-- Led effort to identify and integrate "core apps" into next generation Linux and Windows OS loads
+- Performed continuous integration and release for cloud management platform (vRA/vRO, Chef, Habitat, Network as a Service)
 - Developed Infrastructure as Code (IaC) for numerous components, including vRealize Endpoint Ops Mgr (vROPS), Splunk Forwarder, MS SQL Server
+- Designed & implemented CI/CD Pipelines for IaC
+- Created excellent documentation as contributor, reviewer, and merger for software defined data center documentation and code repositories
 - Defined logging principles and targets for software-defined data center
-- Mentored and trained for release, deployment, code quality, config management, and Test Driven Development (TDD)
+- Mentored and trained teams on release, deployment, code quality, config management, and Test Driven Development (TDD)
 
 
 **Ford Motor Company** - Network Management Systems (NMS) Infrastructure Engineer (Jun 2007 - Jan 2017)
