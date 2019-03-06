@@ -18,7 +18,7 @@
 - Enable cloud-based APIs utilizing Ford's Connected Vehicle Platform
 - Design new connected vehicle features and functions, and model / simulate these functions in SysML
 - Create and execute support models and onboarding processes for 3rd party cloud partners
-- Define test plans for APIs leveraging Postman, API simulators, bench-top hardware, and actual vehicles
+- Define test plans for APIs leveraging Postman, API simulators, bench-top hardware, and vehicles
 - Establish repeatable metrics and reporting processes for pre-prod and prod API transactions
 
 **Ford Motor Company** - Release Team Engineer, Next Gen Data Center (Jan 2017 - Oct 2018)
