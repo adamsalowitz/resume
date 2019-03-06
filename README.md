@@ -2,19 +2,26 @@
 
 #### adam.salowitz+github@gmail.com | +1 (248) 506-\*\*\*\*
 
-
- I consider myself a system admin with strong automation and developer skills.  I'm comfortable in most OS and network environments and able to  master new skills, languages, technologies quickly.  I'm great at documentation and enjoy mentoring and teaching.  Being at the vanguard of a DevOps transformation in a large enterprise has prepared me for the challenges ahead as the industry accelerates.  I've learned to work in small shippable increments, document as I go, fail fast, and to be agile.
+ I consider myself a system admin with strong automation and developer skills.  I'm comfortable in most OS and network environments and able to master new skills, languages, technologies quickly.  I'm great at documentation and enjoy mentoring and teaching.  Being at the vanguard of a DevOps transformation in a large enterprise has prepared me for the challenges ahead as the industry accelerates.  By iterating in small, shippable increments & documenting as I go, I'm able to bridge the gaps between developers and operations teams to enable rapid and successful releases.
 
 #### Skills
 - **OS:** Linux, Solaris, UNIX, Windows, MacOS, ESXi
-- **Network:** Cisco ACI, IOS/NX-OS, Secure ACS (TACACS+), Identity Services Engine (ISE), f5 BigIP, iWorkflow, TCP/IP
-- **Monitoring & Logging:** IBM Tivoli Netcool, Nagios, Balabit Syslog-NG, RSyslog, Splunk Enterprise
-- **Programming & Scripting:**  GitHub, git, CVS, Perl, PHP, Bash, Chef, Habitat, C++
+- **Network:** Cisco ACI, IOS/NX-OS, Secure ACS (TACACS+), Identity Services Engine (ISE), f5 BigIP, iWorkflow, TCP/IP, CAN bus, Automotive Ethernet
+- **Monitoring & Logging:** IBM Tivoli Netcool, Nagios, Syslog-NG, RSyslog, Splunk, Azure Log Analytics
+- **Programming & Scripting:**  GitHub, git, CVS, Perl, PHP, Bash, Chef, Habitat, C++, Ruby, JavaScript
 - **CI/CD:** Jenkins, Chef Automate, Concourse
-- **Cloud:** vRealize Suite, vCenter, Terraform, Azure, Pivotal Cloud Foundry, AWS EC2, Lightsail, Route53, VPC, IAM, Docker
+- **Cloud:** vRealize Suite, vCenter, Terraform, Azure, Pivotal Cloud Foundry, AWS EC2, Lightsail, Route53, VPC, IAM, Docker, Postman, Swagger
+- **Other:** MagicDraw, Siemens TeamCenter, Vehicle Spy, Ford Diagnostic Engineering Tools, MultiComm, Raspberry Pi
 
 #### Work History
-**Ford Motor Company** - Release Team Engineer, Next Gen Data Center (Jan 2017 - Present)
+**Ford Motor Company** - Product Development Engineer, 3rd Party API Team / Connected Vehicle (Oct 2018 - Present)
+- Enable cloud-based APIs utilizing Ford's Connected Vehicle Platform
+- Design new connected vehicle features and functions, and model / simulate these functions in SysML
+- Create and execute support models and onboarding processes for 3rd party cloud partners
+- Define test plans for APIs leveraging Postman, API simulators, bench-top hardware, and vehicles
+- Establish repeatable metrics and reporting processes for pre-prod and prod API transactions
+
+**Ford Motor Company** - Release Team Engineer, Next Gen Data Center (Jan 2017 - Oct 2018)
 - Thought leader during DevOps and Agile transformation of IT org
 - Performed continuous integration and release for cloud management platform (vRA/vRO, Chef, Habitat, Network)
 - Developed Infrastructure as Code (IaC) for numerous components, including vROPS, Splunk Forwarder, and MS SQL Server
