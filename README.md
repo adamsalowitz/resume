@@ -7,7 +7,7 @@
 #### Skills
 - **OS:** Linux, Solaris, UNIX, Windows, MacOS, ESXi
 - **Network:** Cisco ACI, IOS/NX-OS, Secure ACS (TACACS+), Identity Services Engine (ISE), f5 BigIP, iWorkflow, TCP/IP, CAN bus, Automotive Ethernet
-- **Monitoring & Logging:** IBM Tivoli Netcool, Nagios, Syslog-NG, RSyslog, Splunk, Azure Log Diagnostics
+- **Monitoring & Logging:** IBM Tivoli Netcool, Nagios, Syslog-NG, RSyslog, Splunk, Azure Log Analytics
 - **Programming & Scripting:**  GitHub, git, CVS, Perl, PHP, Bash, Chef, Habitat, C++, Ruby, JavaScript
 - **CI/CD:** Jenkins, Chef Automate, Concourse
 - **Cloud:** vRealize Suite, vCenter, Terraform, Azure, Pivotal Cloud Foundry, AWS EC2, Lightsail, Route53, VPC, IAM, Docker, Postman, Swagger
