@@ -1,7 +1,8 @@
 ### Adam Salowitz
 
+<!--
 #### ******@******.com | +1 (***) ***-****
-
+-->
  I consider myself a system engineer with strong automation and developer skills.  I'm comfortable in most environments and able to quickly master new skills, languages, architectures, & technologies.  I'm great at documentation, mentoring, and iterating in small, shippable increments.  Being at the vanguard of a DevOps transformation in a large enterprise and broadening my IoT skills in the Connected Vehicle space has prepared me for the challenges ahead as the industry accelerates.
 
 #### Skills
